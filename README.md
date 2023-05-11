@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Full-Stack Software developer (MERN Stack, React-Native);
+
 <!--
 **wasswaenockmale/wasswaenockmale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 - 🔭 I’m currently doing React-Native for mobile application development.
 - 💬 Ask me about React-Native, React, Redux, ExpressJS, NodeJS, 
