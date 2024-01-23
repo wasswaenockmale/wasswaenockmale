@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently doing React-Native for mobile application development.
-- 💬 Ask me about React-Native, React, Redux, ExpressJS, NodeJS, 
+- 💬 Ask me about Javascript, TypeScript, React-Native, React, Redux, ExpressJS, NodeJS, 
