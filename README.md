@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="60" height="60"/>&nbsp;
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :My Stats :
+### My Stats :
 
 <div style="display: flex; justify-content: space-around;">
     <img src="https://github-readme-stats.vercel.app/api?username=wasswaenockmale&show_icons=true&bg_color=00000000" alt="GitHub Stats" />
