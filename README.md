@@ -49,7 +49,6 @@ Reach me: [LinkedIn](https://www.linkedin.com/in/wasswaenockmale/) | [Twitter](h
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original-wordmark.svg" title="Redux" alt="Redux" width="60" height="60"/>&nbsp;
 </div>
 -->
-### My Stats :
 
 <!-- <div style="display: flex; justify-content: space-around;">
     <img src="https://github-readme-stats.vercel.app/api?username=wasswaenockmale&show_icons=true&bg_color=00000000" alt="GitHub Stats" />
