@@ -1,6 +1,6 @@
 ### Hi, I'm Enock Wasswa Male (Metatron)
 
-Software Engineer | React Native | Apps Engineer | Passionate about building impactful mobile & web apps.  
+Software Engineer | Apps Engineer | Passionate about building impactful mobile and web apps.
 
 - Currently building healthcare + edtech apps with **React Native & Strapi**
 - Exploring Artificial Intelligence
