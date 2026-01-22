@@ -51,7 +51,7 @@ Reach me: [LinkedIn](https://www.linkedin.com/in/wasswaenockmale/) | [Twitter](h
 -->
 ### My Stats :
 
-<div style="display: flex; justify-content: space-around;">
+<!-- <div style="display: flex; justify-content: space-around;">
     <img src="https://github-readme-stats.vercel.app/api?username=wasswaenockmale&show_icons=true&bg_color=00000000" alt="GitHub Stats" />
     <img src="https://github-stats-alpha.vercel.app/api?username=wasswaenockmale&cc=222425&tc=fff&ic=fff&bc=222425" alt="Stats" style="margin-left: 20px;" />
-</div>
+</div> -->
