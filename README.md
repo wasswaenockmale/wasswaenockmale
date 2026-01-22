@@ -3,7 +3,7 @@
 Software Engineer | React Native | Apps Engineer | Passionate about building impactful mobile & web apps.  
 
 - Currently building healthcare + edtech apps with **React Native & Strapi**
-- Exploring **Kotlin Multiplatform** & AI in mobile apps
+- Exploring Artificial Intelligence
 - Ask me about **React Native, TypeScript, APIs, and app scalability**
 
 <!--
